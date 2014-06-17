@@ -4,8 +4,10 @@
     version="1.0">
     
     <!-- 
-	   APHM - Auteur F.LAURENT
-	   V1.0 : 10/07/2013 - initialisation : Conversion du format hprim XML 1.03a en 1.07
+       Licence Creative Commons : Attribution 4.0 International <http://creativecommons.org/licenses/by/4.0/>
+       Auteur : Frédéric LAURENT
+      
+       V1.0 : 10/07/2013 - initialisation : Conversion du format hprim XML 1.03a en 1.07
     -->
     <xsl:output method="xml" encoding="ISO-8859-1"/>
     

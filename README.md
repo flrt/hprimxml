@@ -13,3 +13,5 @@ Les feuilles disponibles sont les suivantes :
 4. Descente de version ↓ : 1.07 → 1.04
 
 XSL : <http://www.w3.org/Style/XSL/>
+
+Licence Creative Commons : Attribution 4.0 International <http://creativecommons.org/licenses/by/4.0/>
